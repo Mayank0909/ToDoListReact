@@ -1,0 +1,10 @@
+.listdiv{
+    display: flex;
+
+}
+.list{
+    margin-left: 10px;
+}
+.listButton{
+    margin-right: 10px;
+}
